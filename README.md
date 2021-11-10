@@ -1,16 +1,18 @@
-### Hi there 👋
+## Opa, eu sou o Gian, um ser humano qualquer ;-;
 
-<!--
-**GianIversen/gianiversen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente não trabalho com nada em específico
+- 🌱 Estudando python
+- 💬 Contate-me pelo meu e-mail: gianiversen@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://dog.me/GianIversen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianiversen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianiversen&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  
+  <img height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+</div>
+  
+##
